@@ -51,7 +51,7 @@ Launch human_pose_estimation.ipynb to test hand landmark detection.
 
 Make sure your webcam is enabled and accessible if you're using it as the source.
 
-⚙️ Features
+> Features
 ✔️ Real-time human detection using HOG/MediaPipe
 
 ✔️ Multiple person tracking with bounding boxes and IDs
@@ -91,5 +91,5 @@ Make sure your webcam is enabled and accessible if you're using it as the source
 
 This project was built as part of an exploration into real-time computer vision on resource-constrained systems. Thanks to the OpenCV and MediaPipe teams for their excellent libraries.
 
-📄 License
+> License
 This project is open-source for educational and non-commercial use. If you plan to use it commercially, please get in touch.
