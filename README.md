@@ -39,15 +39,7 @@ Libraries:
 
 * Hardware: Works on standard laptops (no GPU required)
 
-> Clone the repository:
-
-bash
-git clone [[https://github.com/yourusername/human-analytics.git](https://github.com/deep-khimani/Real-Time-Human-Detection-Pose-Estimation-with-Entry-Exit-Counting.git)]
-cd Real-Time-Human-Detection-Pose-Estimation-with-Entry-Exit-Counting
-
-
-
-Install dependencies:
+> Install dependencies:
 
 bash
 pip install -r requirements.txt
