@@ -42,8 +42,8 @@ Libraries:
 > Clone the repository:
 
 bash
-git clone https://github.com/yourusername/human-analytics.git
-cd human-analytics
+git clone [[https://github.com/yourusername/human-analytics.git](https://github.com/deep-khimani/Real-Time-Human-Detection-Pose-Estimation-with-Entry-Exit-Counting.git)]
+cd Real-Time-Human-Detection-Pose-Estimation-with-Entry-Exit-Counting
 
 
 
@@ -61,13 +61,18 @@ Make sure your webcam is enabled and accessible if you're using it as the source
 
 ⚙️ Features
 ✔️ Real-time human detection using HOG/MediaPipe
+
 ✔️ Multiple person tracking with bounding boxes and IDs
+
 ✔️ Entry/Exit zone counter with virtual line
+
 ✔️ Hand pose recognition (21-point detection)
+
 ✔️ Smooth and optimized FPS for lower-spec systems
+
 ✔️ Supports video input or webcam
 
-✅ What's New / Novelty
+> What's New / Novelty
 * Optimized detection FPS via strategic frame skipping and resizing
 
 * Accurate Entry–Exit counting
