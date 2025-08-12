@@ -1,5 +1,22 @@
 # Real Time Human Detection Pose Estimation with Entry Exit Counting
 
+
+
+https://github.com/user-attachments/assets/e6c70a5e-7383-448c-8e9c-ba86fb98c6aa
+
+
+
+https://github.com/user-attachments/assets/96d0d8da-cdcc-46ac-a32e-972b5b75d67f
+
+
+https://github.com/user-attachments/assets/f124184d-a07b-476b-9cfa-6adedbbf7beb
+
+
+https://github.com/user-attachments/assets/7019df17-d76a-44f1-af97-44423c24c099
+
+
+
+
 This project explores how computer vision can be used to detect, track, and count humans in real time using standard webcams or video footage, all while keeping the system fast enough for practical use on a standard CPU. It also includes pose estimation of the hand using MediaPipe, making this a lightweight human activity analyzer you can run with minimal hardware.
 
 > Project Summary
